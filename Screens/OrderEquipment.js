@@ -19,11 +19,11 @@ import Small from '../components/Equipments/Small';
 
 export default function Equipment()  {
    <Text>ખેતીના ઓજાર ભાડે લ્યો </Text>;
-   <Fuvara>ફુવારા ભાડે લ્યો </Fuvara>;
-   <Pipe>પાઇપ ભાડે લ્યો </Pipe>;
-   <Machine>સિંચાઈ મશીન ભાડે લ્યો </Machine>;
-   <Motar>ઇલેક્ટ્રિક મોટર ભાડે લ્યો </Motar>;
-   <Panp>પંપ ભાડે લ્યો </Panp>;
-   <Aurni>ઓરણી  ભાડે લ્યો  </Aurni>;  
-   <Small>નાના ઓજારો ભાડે લ્યો </Small>;
+   <Fuvara>Icon=[Fuv.png] ફુવારા ભાડે લ્યો </Fuvara>;
+   <Pipe>Icon=[Pip.png] પાઇપ ભાડે લ્યો </Pipe>;
+   <Machine>Icon =[Mcn.png] સિંચાઈ મશીન ભાડે લ્યો </Machine>;
+   <Motar>Icon=[Mtr.png] ઇલેક્ટ્રિક મોટર ભાડે લ્યો </Motar>;
+   <Panp>Icon=[Pnp.png]પંપ ભાડે લ્યો </Panp>;
+   <Aurni>Icon=[Arn.png]ઓરણી  ભાડે લ્યો  </Aurni>;  
+   <Small>Icon=[Sml.png]નાના ઓજારો ભાડે લ્યો </Small>;
 }
